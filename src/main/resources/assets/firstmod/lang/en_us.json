@@ -1,4 +1,7 @@
 {
   "item.firstmod.poop": "Poop",
-  "item.firstmod.raw_poop": "Raw Poop"
+  "item.firstmod.raw_poop": "Raw Poop",
+
+  "block.firstmod.poop_block": "Block of Poop",
+  "block.firstmod.raw_poop_block": "Block of Raw Poop"
 }
